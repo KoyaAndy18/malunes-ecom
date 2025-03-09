@@ -1,0 +1,2 @@
+* **`@yield('title', 'My Application')`:** This allows you to set the page title from your individual views. The second argument is a default title.
+* **`@yield('content')`:** This is where the content of your individual views will be inserted.
